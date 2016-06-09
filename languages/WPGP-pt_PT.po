@@ -1,0 +1,80 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP GIF Player\n"
+"POT-Creation-Date: 2016-06-09 21:17+0100\n"
+"PO-Revision-Date: 2016-06-09 21:51+0100\n"
+"Last-Translator: Pedro Mendonça <ped.gaspar@gmail.com>\n"
+"Language-Team: Pedro Mendonça <ped.gaspar@gmail.com>\n"
+"Language: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;"
+"esc_html_x:1,2c\n"
+"X-Poedit-WPHeader: gif-player.php\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: gif-player.php:92
+msgid "Add GIF"
+msgstr "Adicionar GIF"
+
+#: gif-player.php:129
+msgid "Sorry, but we couldn't find a GIF with this ID!"
+msgstr "Desculpe, mas não foi possível encontrar um GIF com este ID!"
+
+#: gif-player.php:282
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Não tem permissões suficientes para aceder a esta página."
+
+#: gif-player.php:288
+msgid "WP Gif Player Settings"
+msgstr "Definições do WP Gif Player"
+
+#: gif-player.php:307
+msgid "Thumbnail Settings"
+msgstr "Definições da imagem de destaque"
+
+#: gif-player.php:314
+msgid "Set post thumbnail automatically?"
+msgstr "Definir imagem de destaque automaticamente?"
+
+#: gif-player.php:327
+msgid "Choose your settings below:"
+msgstr "Escolha as suas definições abaixo:"
+
+#: gif-player.php:341
+msgid "Don't set a post thumbnail"
+msgstr "Não definir uma imagem de destaque"
+
+#: gif-player.php:350
+msgid "Set first frame of first GIF as Thumbnail"
+msgstr "Definir primeiro frame do primeiro GIF como imagem de destaque"
+
+#: gif-player.php:359
+msgid "Set first GIF as Thumbnail"
+msgstr "Definir primeiro GIF como imagem de destaque"
+
+#. Plugin Name of the plugin/theme
+msgid "WP GIF Player"
+msgstr "WP GIF Player"
+
+#. Description of the plugin/theme
+msgid "An easy to use GIF Player for Wordpress"
+msgstr "Um GIF Player de utilização fácil para WordPress"
+
+#. Author of the plugin/theme
+msgid "Stefanie Stoppel @ psmedia GmbH"
+msgstr "Stefanie Stoppel @ psmedia GmbH"
+
+#. Author URI of the plugin/theme
+msgid "http://p-s-media.de/"
+msgstr "http://p-s-media.de/"
+
+#~ msgid "WP GIF Player Settings"
+#~ msgstr "WP GIF Player Einstellungen"
