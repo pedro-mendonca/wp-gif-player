@@ -285,7 +285,7 @@ class WP_GIF_Player{
         $this->options = get_option( 'set_still_as_featured' );
 
         echo '<div class="wrap">
-                <h2>' . _e('WP Gif Player Settings', 'WPGP' ). '</h2>
+                <h2>' . __('WP Gif Player Settings', 'WPGP' ). '</h2>
                 <form method="post" action="options.php"> ';
         settings_fields( 'featured_still' );
         do_settings_sections( 'wp-gif-player-menu' );
